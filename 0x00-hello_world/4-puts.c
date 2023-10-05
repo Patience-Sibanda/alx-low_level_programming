@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+/**
+ * main - Entry of the program
+ *
+ * Return:  0(Success)
+ */
+int main()
+{
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
+}
